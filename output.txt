@@ -1,0 +1,7 @@
+type = (M)
+symbol = (error)
+name = (errortest)
+quantity = (1)
+price = (1.0)
+bookValue = (1.0)
+
